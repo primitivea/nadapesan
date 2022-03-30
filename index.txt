@@ -1,0 +1,112 @@
+###########################################
+Panduan Nada Dering Pesan WA dengan Suara Google
+###########################################
+
+## Kumpulan materi dalam projek ini adalah lanjutan dari tutorial `Suara Google`_- dari tim Karinov.co.id
+
+Nada dering pesan WA biasanya memiliki dering yang pendek tidak panjang seperti dering telepon WA. Bila menggunakan nada dering bawaan yang terdapat di perangkat biasanya hanya sedikit pilihannya, karena itu banyak pengguna yang mencari nada dering unik dan keren. 
+
+Untuk menggunakan nada dering pesan WA yang unik, bervariasi dan keren kamu bisa mendownloadnya lewat aplikasi yang ada di Playstore atau lewat tools nada dering.
+
+## Cara Download Nada Dering Pesan WA
+
+Kamu bisa gunakan beberapa cara berikut untuk mendownload nada dering pesan WA.
+
+#1 Download Nada Dering Pesan WA Lewat Aplikasi Shouter
+
+Shouter adalah salah satu aplikasi yang menyediakan berbagai nada dering pesan WA. Nada dering yang disediakan adalah nada dering berupa kalimat atau kata-kata pemberitahuan akan adanya pesan masuk. Jadi, kamu terasa memiliki asisten virtual yang otomatis akan membacakan pemberitahuan di Hp. Berikut cara download aplikasi Shouter di Hp.
+
+Langkah  1: Download aplikasi  Shouter di Playstore
+Langkah 2: Buka aplikasi lalu pilih Bahasa Indonesia sebagai bahasa default.
+Langkah  3: Klik izinkan untuk dapat akses kontak dan panggilan telepon di Hp.
+Langkah 4: Klik Yes saat Notification Access (Important) Needed pop up pada layar.
+Langkah 5: Klik izinkan agar aplikasi Shouter dapat akses notifikasi di HP.
+Langkah 6: Pilih menu App Notification.
+Langkah 7: Select Apps dan pilih aplikasi WhatsApp
+
+#2 Cara Download Nada Dering Pesan WA Menggunakan Tools Voice of Text
+
+Cara download berikutnya adalah melalui tools Voice of text. Di sini kamu bisa buat kata-kata sendiri yang unik, lucu dan sesukamu, yang selanjutnya kata-kata tersebut akan diubah menjadi suara dalam format MP3. Berikut langkah-langkahnya:
+
+Langkah 1: Buka browser dari HP atau PC.
+Langkah 2: Kunjungi situs https://voiceoftext.com/
+Langkah 3: Login dengan menggunakan akun Google.
+Langkah 4: Pilih Bahasa, Bahasa Indonesia atau bahasa lain sesuai keinginan.
+Langkah 5: Masukan kalimat atau kata-kata yang ingin diubah menjadi suara dan dijadikan nada dering. 
+Langkah 6: Atur karakteristik suara, contoh: Say as,  Voice Effect, Pauses, Volume, Speed, Pitch, dan Emphasis.
+Langkah 7: Klik Convert to Speech untuk mendengarkan hasilnya 
+Langkah 8: Klik Download MP3 untuk menyimpannya di perangkat.
+
+#3 Download Nada Dering Pesan WA Lucu dan Unik
+
+Kamu juga bisa buat nada dering pesan WA dengan nada dering yang lucu dan unik tentunya agar suara notifikasi Wa kamu jadi beda dari yang lain. Berikut langkah-langkahnya:
+
+Langkah 1: Buka browser di Hp, disarankan gunakan Google Chrome.
+Langkah 2: Masukkan kata kunci download nada dering pesan WA lucu dan unik.
+Langkah 3: Akan muncul beberapa situs yang menyediakan nada dering pesan wa terbaik.
+Langkah 4: Buka situs yang kamu pilih untuk menampilkan nada dering pesan WA lucu dan unik.
+Langkah 5: Selanjutnya akan muncul berbagai pilihan nada dering WA lucu dan unik. 
+Langkah 6: Klik download atau unduh pada nada dering WA yang kamu pilih. 
+Langkah 7: File MP3 nada dering akan tersimpan  di Hp
+
+## Cara Pasang Nada Dering Pesan WA
+
+Selanjutnya setelah nada dering tersebut sudah di download dan tersimpan di file manager perangkat, untuk menjadikannya nada dering pesan WA, ikuti langkah-langkahnya di bawah ini:
+
+Langkah 1: Buka aplikasi File Manager atau My Files di Hp.
+Langkah 2: Pilih penyimpanan internal atau internal storage
+Langkah 3: Pilih folders ringtone lalu buka MP3  nada dering yang tadi di download. 
+Langkah 4: Pindahkan file nada dering pesan MP3 tersebut  ke menu Ringtones
+
+## Cara Ganti Notifikasi Pesan WA
+
+Bila sudah dipindahkan ke menu ringtone, selanjutnya untuk mengganti notifikasi pesan WA, ikuti langkah-langkahnya di bawah ini:
+
+Langkah 1: Buka aplikasi WhatsApp di Hp
+Langkah 2: Klik ikon titik tiga yang ada di pojok kanan atas.
+Langkah 3: Pilih menu pengaturan/setelan/setting. 
+Langkah 4: Pilih  Notifikasi 
+Langkah 5: Pilih Notifikasi pesan
+Langkah 6: Pilih nada dering pesan WA yang tadi di download.
+
+## Cara Ganti Notifikasi Pesan WA di iPhone
+
+Sementara itu bagi pengguna iPhone, untuk ganti notifikasi pesan WA di iPhone langkah-langkahnya sebagai berikut:
+
+Langkah 1: Buka menu pengaturan atau settings di iPhone, dengan cara mengklik ikon pada halaman Home. 
+Langkah 2: Pilih menu Sounds, dengan ikon speaker merah muda.
+Langkah 3: Arahkan layar pada berbagai pilihan menu Sound and Vibration Patterns. 
+Langkah 4: Klik menu Ringtone.
+Langkah 5: Pilih ringtone nada dering pesan WA dengan cara klik pada tanda centang biru yang ada di samping kirinya.
+Langkah 6: Selanjutnya secara otomatis seluruh nada notifikasi akan diganti dengan nada pesan yang dipilih tadi, ini tidak hanya berlaku untuk pesan WA saja tapi berlaku untuk seluruh nada pesan pesan pada perangkat iPhone tersebut. 
+
+Nah, mudah sekali bukan cara ganti nada dering pesan WA di Hp dengan menggunakan nada dering yang kamu buat dan download lewat aplikasi maupun tools di atas. Semoga bermanfaat bagi kalian yang sedang mencari nada dering pesan WA.
+
+********
+Contents
+********
+
+.. toctree::
+   :maxdepth: 2
+
+   style-guide
+   contribute/index
+   about/index
+
+
+******************
+Indices and tables
+******************
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
+
+**********
+References
+**********
+
+.. target-notes::
+
+.. _`Sphinx`: https://karinov.co.id/buat-nada-dering-wa-suara-google/
