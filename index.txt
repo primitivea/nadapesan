@@ -2,7 +2,7 @@
 Panduan Nada Dering Pesan WA dengan Suara Google
 ###########################################
 
-Kumpulan materi dalam projek ini adalah lanjutan dari tutorial `Suara Google`_- dari tim Karinov.co.id
+Kumpulan materi dalam projek ini adalah lanjutan dari tutorial `Suara Google`_ dari tim Karinov.co.id
 
 Nada dering pesan WA biasanya memiliki dering yang pendek tidak panjang seperti dering telepon WA. Bila menggunakan nada dering bawaan yang terdapat di perangkat biasanya hanya sedikit pilihannya, karena itu banyak pengguna yang mencari nada dering unik dan keren. 
 
